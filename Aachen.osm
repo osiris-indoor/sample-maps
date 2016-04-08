@@ -1,750 +1,750 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
   <bounds minlat='50.7787964' minlon='6.0736477' maxlat='50.7800514' maxlon='6.0758793' origin='CGImap 0.4.0 (8708 thorn-02.openstreetmap.org)' />
-  <node id='-8834' action='modify' visible='true' lat='50.77942241416' lon='6.07460068101'>
+  <node id='-11' action='modify' visible='true' lat='50.77942241416' lon='6.07460068101'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8833' action='modify' visible='true' lat='50.77941961416' lon='6.07461468101'>
+  <node id='-13' action='modify' visible='true' lat='50.77941961416' lon='6.07461468101'>
     <tag k='indoor' v='column' />
     <tag k='level' v='-1' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8832' action='modify' visible='true' lat='50.77940091416' lon='6.07471138101' />
-  <node id='-8831' action='modify' visible='true' lat='50.77943261416' lon='6.07472688101' />
-  <node id='-8830' action='modify' visible='true' lat='50.77946451416' lon='6.07474228101' />
-  <node id='-8829' action='modify' visible='true' lat='50.77949581416' lon='6.07475868101' />
-  <node id='-8828' action='modify' visible='true' lat='50.77951511416' lon='6.07466078101' />
-  <node id='-8827' action='modify' visible='true' lat='50.77952181416' lon='6.07462628101' />
-  <node id='-8826' action='modify' visible='true' lat='50.77953961416' lon='6.07453598101' />
-  <node id='-8825' action='modify' visible='true' lat='50.77950761416' lon='6.07452068101' />
-  <node id='-8824' action='modify' visible='true' lat='50.77947571416' lon='6.07450528101' />
-  <node id='-8823' action='modify' visible='true' lat='50.77944401416' lon='6.07448978101' />
-  <node id='-8822' action='modify' visible='true' lat='50.77942641416' lon='6.07458028101'>
+  <node id='-15' action='modify' visible='true' lat='50.77940091416' lon='6.07471138101' />
+  <node id='-17' action='modify' visible='true' lat='50.77943261416' lon='6.07472688101' />
+  <node id='-19' action='modify' visible='true' lat='50.77946451416' lon='6.07474228101' />
+  <node id='-21' action='modify' visible='true' lat='50.77949581416' lon='6.07475868101' />
+  <node id='-23' action='modify' visible='true' lat='50.77951511416' lon='6.07466078101' />
+  <node id='-25' action='modify' visible='true' lat='50.77952181416' lon='6.07462628101' />
+  <node id='-27' action='modify' visible='true' lat='50.77953961416' lon='6.07453598101' />
+  <node id='-29' action='modify' visible='true' lat='50.77950761416' lon='6.07452068101' />
+  <node id='-31' action='modify' visible='true' lat='50.77947571416' lon='6.07450528101' />
+  <node id='-33' action='modify' visible='true' lat='50.77944401416' lon='6.07448978101' />
+  <node id='-35' action='modify' visible='true' lat='50.77942641416' lon='6.07458028101'>
     <tag k='indoor' v='column' />
     <tag k='level' v='-1' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8726' action='modify' visible='true' lat='50.77943686071' lon='6.07462291239'>
+  <node id='-37' action='modify' visible='true' lat='50.77943686071' lon='6.07462291239'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8720' action='modify' visible='true' lat='50.77944391025' lon='6.07458862002'>
+  <node id='-39' action='modify' visible='true' lat='50.77944391025' lon='6.07458862002'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8718' action='modify' visible='true' lat='50.77944390257' lon='6.07458858883'>
+  <node id='-41' action='modify' visible='true' lat='50.77944390257' lon='6.07458858883'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8709' action='modify' visible='true' lat='50.77939139377' lon='6.07458169195'>
+  <node id='-43' action='modify' visible='true' lat='50.77939139377' lon='6.07458169195'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8707' action='modify' visible='true' lat='50.7793913991' lon='6.0745817088'>
+  <node id='-45' action='modify' visible='true' lat='50.7793913991' lon='6.0745817088'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8702' action='modify' visible='true' lat='50.77939140176' lon='6.07458170459'>
+  <node id='-47' action='modify' visible='true' lat='50.77939140176' lon='6.07458170459'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8697' action='modify' visible='true' lat='50.77934182823' lon='6.07457719826'>
+  <node id='-49' action='modify' visible='true' lat='50.77934182823' lon='6.07457719826'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8695' action='modify' visible='true' lat='50.77934182823' lon='6.07457719826'>
+  <node id='-51' action='modify' visible='true' lat='50.77934182823' lon='6.07457719826'>
     <tag k='door' v='hinged' />
     <tag k='level' v='0' />
   </node>
-  <node id='-8677' action='modify' visible='true' lat='50.77934900551' lon='6.07454378772'>
+  <node id='-53' action='modify' visible='true' lat='50.77934900551' lon='6.07454378772'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8675' action='modify' visible='true' lat='50.77934900551' lon='6.07454378772'>
+  <node id='-55' action='modify' visible='true' lat='50.77934900551' lon='6.07454378772'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8673' action='modify' visible='true' lat='50.77934900551' lon='6.07454377086'>
+  <node id='-57' action='modify' visible='true' lat='50.77934900551' lon='6.07454377086'>
     <tag k='door' v='hinged' />
     <tag k='level' v='0' />
   </node>
-  <node id='-8660' action='modify' visible='true' lat='50.77928300072' lon='6.07448424191'>
+  <node id='-59' action='modify' visible='true' lat='50.77928300072' lon='6.07448424191'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8659' action='modify' visible='true' lat='50.77925050072' lon='6.07447054191'>
+  <node id='-61' action='modify' visible='true' lat='50.77925050072' lon='6.07447054191'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8640' action='modify' visible='true' lat='50.77940659772' lon='6.07460827078'>
+  <node id='-63' action='modify' visible='true' lat='50.77940659772' lon='6.07460827078'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8638' action='modify' visible='true' lat='50.77940659772' lon='6.07460827078'>
+  <node id='-65' action='modify' visible='true' lat='50.77940659772' lon='6.07460827078'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8614' action='modify' visible='true' lat='50.77931722467' lon='6.07452840301'>
+  <node id='-67' action='modify' visible='true' lat='50.77931722467' lon='6.07452840301'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8613' action='modify' visible='true' lat='50.77921962467' lon='6.07448130301'>
+  <node id='-69' action='modify' visible='true' lat='50.77921962467' lon='6.07448130301'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8612' action='modify' visible='true' lat='50.77921362467' lon='6.07451520301'>
+  <node id='-71' action='modify' visible='true' lat='50.77921362467' lon='6.07451520301'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8611' action='modify' visible='true' lat='50.77928572467' lon='6.07451320301'>
+  <node id='-73' action='modify' visible='true' lat='50.77928572467' lon='6.07451320301'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8610' action='modify' visible='true' lat='50.77927912467' lon='6.07454680301'>
+  <node id='-75' action='modify' visible='true' lat='50.77927912467' lon='6.07454680301'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8596' action='modify' visible='true' lat='50.77931709181' lon='6.07452830897'>
+  <node id='-77' action='modify' visible='true' lat='50.77931709181' lon='6.07452830897'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8595' action='modify' visible='true' lat='50.77921949181' lon='6.07448120897'>
+  <node id='-79' action='modify' visible='true' lat='50.77921949181' lon='6.07448120897'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8594' action='modify' visible='true' lat='50.77921349181' lon='6.07451510897'>
+  <node id='-81' action='modify' visible='true' lat='50.77921349181' lon='6.07451510897'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8593' action='modify' visible='true' lat='50.77928559181' lon='6.07451310897'>
+  <node id='-83' action='modify' visible='true' lat='50.77928559181' lon='6.07451310897'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8592' action='modify' visible='true' lat='50.77927899181' lon='6.07454670897'>
+  <node id='-85' action='modify' visible='true' lat='50.77927899181' lon='6.07454670897'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8586' action='modify' visible='true' lat='50.77931708195' lon='6.07452837953'>
+  <node id='-87' action='modify' visible='true' lat='50.77931708195' lon='6.07452837953'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8585' action='modify' visible='true' lat='50.77921948195' lon='6.07448127953'>
+  <node id='-89' action='modify' visible='true' lat='50.77921948195' lon='6.07448127953'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8584' action='modify' visible='true' lat='50.77921348195' lon='6.07451517953'>
+  <node id='-91' action='modify' visible='true' lat='50.77921348195' lon='6.07451517953'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8583' action='modify' visible='true' lat='50.77928558195' lon='6.07451317953'>
+  <node id='-93' action='modify' visible='true' lat='50.77928558195' lon='6.07451317953'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8582' action='modify' visible='true' lat='50.77927898195' lon='6.07454677953'>
+  <node id='-95' action='modify' visible='true' lat='50.77927898195' lon='6.07454677953'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8538' action='modify' visible='true' lat='50.77924546647' lon='6.07453065457'>
+  <node id='-97' action='modify' visible='true' lat='50.77924546647' lon='6.07453065457'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8537' action='modify' visible='true' lat='50.77939141548' lon='6.07454413518'>
+  <node id='-99' action='modify' visible='true' lat='50.77939141548' lon='6.07454413518'>
     <tag k='door' v='sliding' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8536' action='modify' visible='true' lat='50.77939133023' lon='6.07454427002'>
+  <node id='-101' action='modify' visible='true' lat='50.77939133023' lon='6.07454427002'>
     <tag k='door' v='sliding' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8535' action='modify' visible='true' lat='50.77939133023' lon='6.07454433744'>
+  <node id='-103' action='modify' visible='true' lat='50.77939133023' lon='6.07454433744'>
     <tag k='door' v='sliding' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8534' action='modify' visible='true' lat='50.77935926647' lon='6.07456715457'>
+  <node id='-105' action='modify' visible='true' lat='50.77935926647' lon='6.07456715457'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8533' action='modify' visible='true' lat='50.77940306647' lon='6.07456895457'>
+  <node id='-107' action='modify' visible='true' lat='50.77940306647' lon='6.07456895457'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8532' action='modify' visible='true' lat='50.77931126647' lon='6.07456235457'>
+  <node id='-109' action='modify' visible='true' lat='50.77931126647' lon='6.07456235457'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8531' action='modify' visible='true' lat='50.77939136647' lon='6.07454425457'>
+  <node id='-111' action='modify' visible='true' lat='50.77939136647' lon='6.07454425457'>
     <tag k='door' v='sliding' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8530' action='modify' visible='true' lat='50.77942236647' lon='6.07457825457'>
+  <node id='-113' action='modify' visible='true' lat='50.77942236647' lon='6.07457825457'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8529' action='modify' visible='true' lat='50.77939133023' lon='6.07454427002'>
+  <node id='-115' action='modify' visible='true' lat='50.77939133023' lon='6.07454427002'>
     <tag k='door' v='sliding' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8528' action='modify' visible='true' lat='50.77937446647' lon='6.07453605457'>
+  <node id='-117' action='modify' visible='true' lat='50.77937446647' lon='6.07453605457'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8527' action='modify' visible='true' lat='50.77925266647' lon='6.07449735457'>
+  <node id='-119' action='modify' visible='true' lat='50.77925266647' lon='6.07449735457'>
     <tag k='door' v='hinged' />
     <tag k='level' v='3' />
   </node>
-  <node id='-8514' action='modify' visible='true' lat='50.77924550755' lon='6.07453077235'>
+  <node id='-121' action='modify' visible='true' lat='50.77924550755' lon='6.07453077235'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8513' action='modify' visible='true' lat='50.77939145657' lon='6.07454425296'>
+  <node id='-123' action='modify' visible='true' lat='50.77939145657' lon='6.07454425296'>
     <tag k='door' v='sliding' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8512' action='modify' visible='true' lat='50.77939137131' lon='6.0745443878'>
+  <node id='-125' action='modify' visible='true' lat='50.77939137131' lon='6.0745443878'>
     <tag k='door' v='sliding' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8511' action='modify' visible='true' lat='50.77939137131' lon='6.07454445521'>
+  <node id='-127' action='modify' visible='true' lat='50.77939137131' lon='6.07454445521'>
     <tag k='door' v='sliding' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8510' action='modify' visible='true' lat='50.77935930755' lon='6.07456727235'>
+  <node id='-129' action='modify' visible='true' lat='50.77935930755' lon='6.07456727235'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8509' action='modify' visible='true' lat='50.77940310755' lon='6.07456907235'>
+  <node id='-131' action='modify' visible='true' lat='50.77940310755' lon='6.07456907235'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8508' action='modify' visible='true' lat='50.77931130755' lon='6.07456247235'>
+  <node id='-133' action='modify' visible='true' lat='50.77931130755' lon='6.07456247235'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8507' action='modify' visible='true' lat='50.77939140755' lon='6.07454437235'>
+  <node id='-135' action='modify' visible='true' lat='50.77939140755' lon='6.07454437235'>
     <tag k='door' v='sliding' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8506' action='modify' visible='true' lat='50.77942240755' lon='6.07457837235'>
+  <node id='-137' action='modify' visible='true' lat='50.77942240755' lon='6.07457837235'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8505' action='modify' visible='true' lat='50.77939137131' lon='6.0745443878'>
+  <node id='-139' action='modify' visible='true' lat='50.77939137131' lon='6.0745443878'>
     <tag k='door' v='sliding' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8504' action='modify' visible='true' lat='50.77937450755' lon='6.07453617235'>
+  <node id='-141' action='modify' visible='true' lat='50.77937450755' lon='6.07453617235'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8503' action='modify' visible='true' lat='50.77925270755' lon='6.07449747235'>
+  <node id='-143' action='modify' visible='true' lat='50.77925270755' lon='6.07449747235'>
     <tag k='door' v='hinged' />
     <tag k='level' v='2' />
   </node>
-  <node id='-8465' action='modify' visible='true' lat='50.77924554251' lon='6.07453060877'>
+  <node id='-145' action='modify' visible='true' lat='50.77924554251' lon='6.07453060877'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8464' action='modify' visible='true' lat='50.77939149152' lon='6.07454408938'>
+  <node id='-147' action='modify' visible='true' lat='50.77939149152' lon='6.07454408938'>
     <tag k='door' v='sliding' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8463' action='modify' visible='true' lat='50.77939140627' lon='6.07454422421'>
+  <node id='-149' action='modify' visible='true' lat='50.77939140627' lon='6.07454422421'>
     <tag k='door' v='sliding' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8462' action='modify' visible='true' lat='50.77939140627' lon='6.07454429163'>
+  <node id='-151' action='modify' visible='true' lat='50.77939140627' lon='6.07454429163'>
     <tag k='door' v='sliding' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8461' action='modify' visible='true' lat='50.77935934251' lon='6.07456710877'>
+  <node id='-153' action='modify' visible='true' lat='50.77935934251' lon='6.07456710877'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8460' action='modify' visible='true' lat='50.77940314251' lon='6.07456890877'>
+  <node id='-155' action='modify' visible='true' lat='50.77940314251' lon='6.07456890877'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8459' action='modify' visible='true' lat='50.77931134251' lon='6.07456230877'>
+  <node id='-157' action='modify' visible='true' lat='50.77931134251' lon='6.07456230877'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8458' action='modify' visible='true' lat='50.77939144251' lon='6.07454420877'>
+  <node id='-159' action='modify' visible='true' lat='50.77939144251' lon='6.07454420877'>
     <tag k='door' v='sliding' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8457' action='modify' visible='true' lat='50.77942244251' lon='6.07457820877'>
+  <node id='-161' action='modify' visible='true' lat='50.77942244251' lon='6.07457820877'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8456' action='modify' visible='true' lat='50.77939140627' lon='6.07454422421'>
+  <node id='-163' action='modify' visible='true' lat='50.77939140627' lon='6.07454422421'>
     <tag k='door' v='sliding' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8455' action='modify' visible='true' lat='50.77937454251' lon='6.07453600877'>
+  <node id='-165' action='modify' visible='true' lat='50.77937454251' lon='6.07453600877'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8454' action='modify' visible='true' lat='50.77925274251' lon='6.07449730877'>
+  <node id='-167' action='modify' visible='true' lat='50.77925274251' lon='6.07449730877'>
     <tag k='door' v='hinged' />
     <tag k='level' v='1' />
   </node>
-  <node id='-8359' action='modify' visible='true' lat='50.77924560812' lon='6.07453074196'>
+  <node id='-169' action='modify' visible='true' lat='50.77924560812' lon='6.07453074196'>
     <tag k='door' v='hinged' />
     <tag k='level' v='0' />
   </node>
-  <node id='-8358' action='modify' visible='true' lat='50.77939155714' lon='6.07454422257'>
+  <node id='-171' action='modify' visible='true' lat='50.77939155714' lon='6.07454422257'>
     <tag k='door' v='sliding' />
     <tag k='level' v='0' />
   </node>
-  <node id='-8357' action='modify' visible='true' lat='50.77939147188' lon='6.0745443574'>
+  <node id='-173' action='modify' visible='true' lat='50.77939147188' lon='6.0745443574'>
     <tag k='door' v='sliding' />
     <tag k='level' v='0' />
   </node>
-  <node id='-8356' action='modify' visible='true' lat='50.77939147188' lon='6.07454442482'>
+  <node id='-175' action='modify' visible='true' lat='50.77939147188' lon='6.07454442482'>
     <tag k='door' v='sliding' />
     <tag k='level' v='0' />
   </node>
-  <node id='-8355' action='modify' visible='true' lat='50.77935940812' lon='6.07456724196'>
+  <node id='-177' action='modify' visible='true' lat='50.77935940812' lon='6.07456724196'>
     <tag k='door' v='hinged' />
     <tag k='level' v='0' />
   </node>
-  <node id='-8354' action='modify' visible='true' lat='50.77940320812' lon='6.07456904196'>
+  <node id='-179' action='modify' visible='true' lat='50.77940320812' lon='6.07456904196'>
     <tag k='door' v='hinged' />
     <tag k='level' v='0' />
   </node>
-  <node id='-8353' action='modify' visible='true' lat='50.77931140812' lon='6.07456244196'>
+  <node id='-181' action='modify' visible='true' lat='50.77931140812' lon='6.07456244196'>
     <tag k='door' v='hinged' />
     <tag k='level' v='0' />
   </node>
-  <node id='-8352' action='modify' visible='true' lat='50.77939150812' lon='6.07454434196'>
+  <node id='-183' action='modify' visible='true' lat='50.77939150812' lon='6.07454434196'>
     <tag k='door' v='sliding' />
     <tag k='level' v='0' />
   </node>
-  <node id='-8351' action='modify' visible='true' lat='50.77942250812' lon='6.07457834196'>
+  <node id='-185' action='modify' visible='true' lat='50.77942250812' lon='6.07457834196'>
     <tag k='door' v='hinged' />
     <tag k='level' v='0' />
   </node>
-  <node id='-8350' action='modify' visible='true' lat='50.77939147188' lon='6.0745443574'>
+  <node id='-187' action='modify' visible='true' lat='50.77939147188' lon='6.0745443574'>
     <tag k='door' v='sliding' />
     <tag k='level' v='0' />
   </node>
-  <node id='-8349' action='modify' visible='true' lat='50.77937460812' lon='6.07453614196'>
+  <node id='-189' action='modify' visible='true' lat='50.77937460812' lon='6.07453614196'>
     <tag k='door' v='hinged' />
     <tag k='level' v='0' />
   </node>
-  <node id='-8348' action='modify' visible='true' lat='50.77925280812' lon='6.07449744196'>
+  <node id='-191' action='modify' visible='true' lat='50.77925280812' lon='6.07449744196'>
     <tag k='door' v='hinged' />
     <tag k='level' v='0' />
   </node>
-  <node id='-8166' action='modify' visible='true' lat='50.77938806376' lon='6.07449811545' />
-  <node id='-8165' action='modify' visible='true' lat='50.77940586376' lon='6.07450661545' />
-  <node id='-8164' action='modify' visible='true' lat='50.77940086376' lon='6.07453261545' />
-  <node id='-8163' action='modify' visible='true' lat='50.77939796376' lon='6.07454741545' />
-  <node id='-8162' action='modify' visible='true' lat='50.77939146376' lon='6.07454431545'>
-    <tag k='door' v='sliding' />
-    <tag k='level' v='-1' />
-  </node>
-  <node id='-8161' action='modify' visible='true' lat='50.77938016376' lon='6.07453881545' />
-  <node id='-8160' action='modify' visible='true' lat='50.77935106376' lon='6.07461031545' />
-  <node id='-8159' action='modify' visible='true' lat='50.77933746376' lon='6.07468071545' />
-  <node id='-8158' action='modify' visible='true' lat='50.77936936376' lon='6.07469611545' />
-  <node id='-8157' action='modify' visible='true' lat='50.77938286376' lon='6.07462571545' />
-  <node id='-8156' action='modify' visible='true' lat='50.77933086376' lon='6.07453511545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8155' action='modify' visible='true' lat='50.77932446376' lon='6.07456871545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8154' action='modify' visible='true' lat='50.77929906376' lon='6.07451971545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8153' action='modify' visible='true' lat='50.77939466376' lon='6.07456491545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8152' action='modify' visible='true' lat='50.77929236376' lon='6.07455321545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8151' action='modify' visible='true' lat='50.77938806376' lon='6.07459931545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8150' action='modify' visible='true' lat='50.77926726376' lon='6.07450431545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8149' action='modify' visible='true' lat='50.77926056376' lon='6.07453791545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8148' action='modify' visible='true' lat='50.77949006376' lon='6.07461101545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8147' action='modify' visible='true' lat='50.77948326376' lon='6.07464541545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8146' action='modify' visible='true' lat='50.77923546376' lon='6.07448901545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8145' action='modify' visible='true' lat='50.77936266376' lon='6.07455041545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8144' action='modify' visible='true' lat='50.77922876376' lon='6.07452251545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8143' action='modify' visible='true' lat='50.77935616376' lon='6.07458401545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8142' action='modify' visible='true' lat='50.77945836376' lon='6.07459561545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8140' action='modify' visible='true' lat='50.77945146376' lon='6.07463001545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8139' action='modify' visible='true' lat='50.77942646376' lon='6.07458031545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8137' action='modify' visible='true' lat='50.77941966376' lon='6.07461471545'>
-    <tag k='indoor' v='column' />
-    <tag k='level' v='3' />
-    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
-  </node>
-  <node id='-8115' action='modify' visible='true' lat='50.77938814902' lon='6.07449798061' />
-  <node id='-8114' action='modify' visible='true' lat='50.77940594902' lon='6.07450648061' />
-  <node id='-8113' action='modify' visible='true' lat='50.77940094902' lon='6.07453248061' />
-  <node id='-8112' action='modify' visible='true' lat='50.77939804902' lon='6.07454728061' />
-  <node id='-8111' action='modify' visible='true' lat='50.77939154902' lon='6.07454418061'>
+  <node id='-193' action='modify' visible='true' lat='50.77938806376' lon='6.07449811545' />
+  <node id='-195' action='modify' visible='true' lat='50.77940586376' lon='6.07450661545' />
+  <node id='-197' action='modify' visible='true' lat='50.77940086376' lon='6.07453261545' />
+  <node id='-199' action='modify' visible='true' lat='50.77939796376' lon='6.07454741545' />
+  <node id='-201' action='modify' visible='true' lat='50.77939146376' lon='6.07454431545'>
     <tag k='door' v='sliding' />
     <tag k='level' v='-1' />
   </node>
-  <node id='-8110' action='modify' visible='true' lat='50.77938024902' lon='6.07453868061' />
-  <node id='-8109' action='modify' visible='true' lat='50.77935114902' lon='6.07461018061' />
-  <node id='-8108' action='modify' visible='true' lat='50.77933754902' lon='6.07468058061' />
-  <node id='-8107' action='modify' visible='true' lat='50.77936944902' lon='6.07469598061' />
-  <node id='-8106' action='modify' visible='true' lat='50.77938294902' lon='6.07462558061' />
-  <node id='-8105' action='modify' visible='true' lat='50.77933094902' lon='6.07453498061'>
+  <node id='-203' action='modify' visible='true' lat='50.77938016376' lon='6.07453881545' />
+  <node id='-205' action='modify' visible='true' lat='50.77935106376' lon='6.07461031545' />
+  <node id='-207' action='modify' visible='true' lat='50.77933746376' lon='6.07468071545' />
+  <node id='-209' action='modify' visible='true' lat='50.77936936376' lon='6.07469611545' />
+  <node id='-211' action='modify' visible='true' lat='50.77938286376' lon='6.07462571545' />
+  <node id='-213' action='modify' visible='true' lat='50.77933086376' lon='6.07453511545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8104' action='modify' visible='true' lat='50.77932454902' lon='6.07456858061'>
+  <node id='-215' action='modify' visible='true' lat='50.77932446376' lon='6.07456871545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8103' action='modify' visible='true' lat='50.77929914902' lon='6.07451958061'>
+  <node id='-217' action='modify' visible='true' lat='50.77929906376' lon='6.07451971545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8102' action='modify' visible='true' lat='50.77939474902' lon='6.07456478061'>
+  <node id='-219' action='modify' visible='true' lat='50.77939466376' lon='6.07456491545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8101' action='modify' visible='true' lat='50.77929244902' lon='6.07455308061'>
+  <node id='-221' action='modify' visible='true' lat='50.77929236376' lon='6.07455321545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8100' action='modify' visible='true' lat='50.77938814902' lon='6.07459918061'>
+  <node id='-223' action='modify' visible='true' lat='50.77938806376' lon='6.07459931545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8099' action='modify' visible='true' lat='50.77926734902' lon='6.07450418061'>
+  <node id='-225' action='modify' visible='true' lat='50.77926726376' lon='6.07450431545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8098' action='modify' visible='true' lat='50.77926064902' lon='6.07453778061'>
+  <node id='-227' action='modify' visible='true' lat='50.77926056376' lon='6.07453791545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8097' action='modify' visible='true' lat='50.77949014902' lon='6.07461088061'>
+  <node id='-229' action='modify' visible='true' lat='50.77949006376' lon='6.07461101545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8096' action='modify' visible='true' lat='50.77948334902' lon='6.07464528061'>
+  <node id='-231' action='modify' visible='true' lat='50.77948326376' lon='6.07464541545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8095' action='modify' visible='true' lat='50.77923554902' lon='6.07448888061'>
+  <node id='-233' action='modify' visible='true' lat='50.77923546376' lon='6.07448901545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8094' action='modify' visible='true' lat='50.77936274902' lon='6.07455028061'>
+  <node id='-235' action='modify' visible='true' lat='50.77936266376' lon='6.07455041545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8093' action='modify' visible='true' lat='50.77922884902' lon='6.07452238061'>
+  <node id='-237' action='modify' visible='true' lat='50.77922876376' lon='6.07452251545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8092' action='modify' visible='true' lat='50.77935624902' lon='6.07458388061'>
+  <node id='-239' action='modify' visible='true' lat='50.77935616376' lon='6.07458401545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8091' action='modify' visible='true' lat='50.77945844902' lon='6.07459548061'>
+  <node id='-241' action='modify' visible='true' lat='50.77945836376' lon='6.07459561545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8089' action='modify' visible='true' lat='50.77945154902' lon='6.07462988061'>
+  <node id='-243' action='modify' visible='true' lat='50.77945146376' lon='6.07463001545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8088' action='modify' visible='true' lat='50.77942654902' lon='6.07458018061'>
+  <node id='-245' action='modify' visible='true' lat='50.77942646376' lon='6.07458031545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8086' action='modify' visible='true' lat='50.77941974902' lon='6.07461458061'>
+  <node id='-247' action='modify' visible='true' lat='50.77941966376' lon='6.07461471545'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='2' />
+    <tag k='level' v='3' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8065' action='modify' visible='true' lat='50.77938806376' lon='6.07449818286' />
-  <node id='-8064' action='modify' visible='true' lat='50.77940586376' lon='6.07450668286' />
-  <node id='-8063' action='modify' visible='true' lat='50.77940086376' lon='6.07453268286' />
-  <node id='-8062' action='modify' visible='true' lat='50.77939796376' lon='6.07454748286' />
-  <node id='-8061' action='modify' visible='true' lat='50.77939146376' lon='6.07454438286'>
+  <node id='-249' action='modify' visible='true' lat='50.77938814902' lon='6.07449798061' />
+  <node id='-251' action='modify' visible='true' lat='50.77940594902' lon='6.07450648061' />
+  <node id='-253' action='modify' visible='true' lat='50.77940094902' lon='6.07453248061' />
+  <node id='-255' action='modify' visible='true' lat='50.77939804902' lon='6.07454728061' />
+  <node id='-257' action='modify' visible='true' lat='50.77939154902' lon='6.07454418061'>
     <tag k='door' v='sliding' />
     <tag k='level' v='-1' />
   </node>
-  <node id='-8060' action='modify' visible='true' lat='50.77938016376' lon='6.07453888286' />
-  <node id='-8059' action='modify' visible='true' lat='50.77935106376' lon='6.07461038286' />
-  <node id='-8058' action='modify' visible='true' lat='50.77933746376' lon='6.07468078286' />
-  <node id='-8057' action='modify' visible='true' lat='50.77936936376' lon='6.07469618286' />
-  <node id='-8056' action='modify' visible='true' lat='50.77938286376' lon='6.07462578286' />
-  <node id='-8055' action='modify' visible='true' lat='50.77933086376' lon='6.07453518286'>
+  <node id='-259' action='modify' visible='true' lat='50.77938024902' lon='6.07453868061' />
+  <node id='-261' action='modify' visible='true' lat='50.77935114902' lon='6.07461018061' />
+  <node id='-263' action='modify' visible='true' lat='50.77933754902' lon='6.07468058061' />
+  <node id='-265' action='modify' visible='true' lat='50.77936944902' lon='6.07469598061' />
+  <node id='-267' action='modify' visible='true' lat='50.77938294902' lon='6.07462558061' />
+  <node id='-269' action='modify' visible='true' lat='50.77933094902' lon='6.07453498061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8054' action='modify' visible='true' lat='50.77932446376' lon='6.07456878286'>
+  <node id='-271' action='modify' visible='true' lat='50.77932454902' lon='6.07456858061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8053' action='modify' visible='true' lat='50.77929906376' lon='6.07451978286'>
+  <node id='-273' action='modify' visible='true' lat='50.77929914902' lon='6.07451958061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8052' action='modify' visible='true' lat='50.77939466376' lon='6.07456498286'>
+  <node id='-275' action='modify' visible='true' lat='50.77939474902' lon='6.07456478061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8051' action='modify' visible='true' lat='50.77929236376' lon='6.07455328286'>
+  <node id='-277' action='modify' visible='true' lat='50.77929244902' lon='6.07455308061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8050' action='modify' visible='true' lat='50.77938806376' lon='6.07459938286'>
+  <node id='-279' action='modify' visible='true' lat='50.77938814902' lon='6.07459918061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8049' action='modify' visible='true' lat='50.77926726376' lon='6.07450438286'>
+  <node id='-281' action='modify' visible='true' lat='50.77926734902' lon='6.07450418061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8048' action='modify' visible='true' lat='50.77926056376' lon='6.07453798286'>
+  <node id='-283' action='modify' visible='true' lat='50.77926064902' lon='6.07453778061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8047' action='modify' visible='true' lat='50.77949006376' lon='6.07461108286'>
+  <node id='-285' action='modify' visible='true' lat='50.77949014902' lon='6.07461088061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8046' action='modify' visible='true' lat='50.77948326376' lon='6.07464548286'>
+  <node id='-287' action='modify' visible='true' lat='50.77948334902' lon='6.07464528061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8045' action='modify' visible='true' lat='50.77923546376' lon='6.07448908286'>
+  <node id='-289' action='modify' visible='true' lat='50.77923554902' lon='6.07448888061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8044' action='modify' visible='true' lat='50.77936266376' lon='6.07455048286'>
+  <node id='-291' action='modify' visible='true' lat='50.77936274902' lon='6.07455028061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8043' action='modify' visible='true' lat='50.77922876376' lon='6.07452258286'>
+  <node id='-293' action='modify' visible='true' lat='50.77922884902' lon='6.07452238061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8042' action='modify' visible='true' lat='50.77935616376' lon='6.07458408286'>
+  <node id='-295' action='modify' visible='true' lat='50.77935624902' lon='6.07458388061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8041' action='modify' visible='true' lat='50.77945836376' lon='6.07459568286'>
+  <node id='-297' action='modify' visible='true' lat='50.77945844902' lon='6.07459548061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8039' action='modify' visible='true' lat='50.77945146376' lon='6.07463008286'>
+  <node id='-299' action='modify' visible='true' lat='50.77945154902' lon='6.07462988061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8038' action='modify' visible='true' lat='50.77942646376' lon='6.07458038286'>
+  <node id='-301' action='modify' visible='true' lat='50.77942654902' lon='6.07458018061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-8036' action='modify' visible='true' lat='50.77941966376' lon='6.07461478286'>
+  <node id='-303' action='modify' visible='true' lat='50.77941974902' lon='6.07461458061'>
     <tag k='indoor' v='column' />
-    <tag k='level' v='1' />
+    <tag k='level' v='2' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7985' action='modify' visible='true' lat='50.77938806376' lon='6.07449811545' />
-  <node id='-7984' action='modify' visible='true' lat='50.77940586376' lon='6.07450661545' />
-  <node id='-7983' action='modify' visible='true' lat='50.77940086376' lon='6.07453261545' />
-  <node id='-7982' action='modify' visible='true' lat='50.77939796376' lon='6.07454741545' />
-  <node id='-7981' action='modify' visible='true' lat='50.77939146376' lon='6.07454431545'>
+  <node id='-305' action='modify' visible='true' lat='50.77938806376' lon='6.07449818286' />
+  <node id='-307' action='modify' visible='true' lat='50.77940586376' lon='6.07450668286' />
+  <node id='-309' action='modify' visible='true' lat='50.77940086376' lon='6.07453268286' />
+  <node id='-311' action='modify' visible='true' lat='50.77939796376' lon='6.07454748286' />
+  <node id='-313' action='modify' visible='true' lat='50.77939146376' lon='6.07454438286'>
     <tag k='door' v='sliding' />
     <tag k='level' v='-1' />
   </node>
-  <node id='-7980' action='modify' visible='true' lat='50.77938016376' lon='6.07453881545' />
-  <node id='-7979' action='modify' visible='true' lat='50.77935106376' lon='6.07461031545' />
-  <node id='-7978' action='modify' visible='true' lat='50.77933746376' lon='6.07468071545' />
-  <node id='-7977' action='modify' visible='true' lat='50.77936936376' lon='6.07469611545' />
-  <node id='-7976' action='modify' visible='true' lat='50.77938286376' lon='6.07462571545' />
-  <node id='-7975' action='modify' visible='true' lat='50.77933086376' lon='6.07453511545'>
+  <node id='-315' action='modify' visible='true' lat='50.77938016376' lon='6.07453888286' />
+  <node id='-317' action='modify' visible='true' lat='50.77935106376' lon='6.07461038286' />
+  <node id='-319' action='modify' visible='true' lat='50.77933746376' lon='6.07468078286' />
+  <node id='-321' action='modify' visible='true' lat='50.77936936376' lon='6.07469618286' />
+  <node id='-323' action='modify' visible='true' lat='50.77938286376' lon='6.07462578286' />
+  <node id='-325' action='modify' visible='true' lat='50.77933086376' lon='6.07453518286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-327' action='modify' visible='true' lat='50.77932446376' lon='6.07456878286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-329' action='modify' visible='true' lat='50.77929906376' lon='6.07451978286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-331' action='modify' visible='true' lat='50.77939466376' lon='6.07456498286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-333' action='modify' visible='true' lat='50.77929236376' lon='6.07455328286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-335' action='modify' visible='true' lat='50.77938806376' lon='6.07459938286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-337' action='modify' visible='true' lat='50.77926726376' lon='6.07450438286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-339' action='modify' visible='true' lat='50.77926056376' lon='6.07453798286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-341' action='modify' visible='true' lat='50.77949006376' lon='6.07461108286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-343' action='modify' visible='true' lat='50.77948326376' lon='6.07464548286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-345' action='modify' visible='true' lat='50.77923546376' lon='6.07448908286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-347' action='modify' visible='true' lat='50.77936266376' lon='6.07455048286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-349' action='modify' visible='true' lat='50.77922876376' lon='6.07452258286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-351' action='modify' visible='true' lat='50.77935616376' lon='6.07458408286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-353' action='modify' visible='true' lat='50.77945836376' lon='6.07459568286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-355' action='modify' visible='true' lat='50.77945146376' lon='6.07463008286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-357' action='modify' visible='true' lat='50.77942646376' lon='6.07458038286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-359' action='modify' visible='true' lat='50.77941966376' lon='6.07461478286'>
+    <tag k='indoor' v='column' />
+    <tag k='level' v='1' />
+    <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
+  </node>
+  <node id='-361' action='modify' visible='true' lat='50.77938806376' lon='6.07449811545' />
+  <node id='-363' action='modify' visible='true' lat='50.77940586376' lon='6.07450661545' />
+  <node id='-365' action='modify' visible='true' lat='50.77940086376' lon='6.07453261545' />
+  <node id='-367' action='modify' visible='true' lat='50.77939796376' lon='6.07454741545' />
+  <node id='-369' action='modify' visible='true' lat='50.77939146376' lon='6.07454431545'>
+    <tag k='door' v='sliding' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-371' action='modify' visible='true' lat='50.77938016376' lon='6.07453881545' />
+  <node id='-373' action='modify' visible='true' lat='50.77935106376' lon='6.07461031545' />
+  <node id='-375' action='modify' visible='true' lat='50.77933746376' lon='6.07468071545' />
+  <node id='-377' action='modify' visible='true' lat='50.77936936376' lon='6.07469611545' />
+  <node id='-379' action='modify' visible='true' lat='50.77938286376' lon='6.07462571545' />
+  <node id='-381' action='modify' visible='true' lat='50.77933086376' lon='6.07453511545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7974' action='modify' visible='true' lat='50.77932446376' lon='6.07456871545'>
+  <node id='-383' action='modify' visible='true' lat='50.77932446376' lon='6.07456871545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7973' action='modify' visible='true' lat='50.77929906376' lon='6.07451971545'>
+  <node id='-385' action='modify' visible='true' lat='50.77929906376' lon='6.07451971545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7972' action='modify' visible='true' lat='50.77939466376' lon='6.07456491545'>
+  <node id='-387' action='modify' visible='true' lat='50.77939466376' lon='6.07456491545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7971' action='modify' visible='true' lat='50.77929236376' lon='6.07455321545'>
+  <node id='-389' action='modify' visible='true' lat='50.77929236376' lon='6.07455321545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7970' action='modify' visible='true' lat='50.77938806376' lon='6.07459931545'>
+  <node id='-391' action='modify' visible='true' lat='50.77938806376' lon='6.07459931545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7969' action='modify' visible='true' lat='50.77926726376' lon='6.07450431545'>
+  <node id='-393' action='modify' visible='true' lat='50.77926726376' lon='6.07450431545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7968' action='modify' visible='true' lat='50.77926056376' lon='6.07453791545'>
+  <node id='-395' action='modify' visible='true' lat='50.77926056376' lon='6.07453791545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7967' action='modify' visible='true' lat='50.77949006376' lon='6.07461101545'>
+  <node id='-397' action='modify' visible='true' lat='50.77949006376' lon='6.07461101545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7966' action='modify' visible='true' lat='50.77948326376' lon='6.07464541545'>
+  <node id='-399' action='modify' visible='true' lat='50.77948326376' lon='6.07464541545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7965' action='modify' visible='true' lat='50.77923546376' lon='6.07448901545'>
+  <node id='-401' action='modify' visible='true' lat='50.77923546376' lon='6.07448901545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7964' action='modify' visible='true' lat='50.77936266376' lon='6.07455041545'>
+  <node id='-403' action='modify' visible='true' lat='50.77936266376' lon='6.07455041545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7963' action='modify' visible='true' lat='50.77922876376' lon='6.07452251545'>
+  <node id='-405' action='modify' visible='true' lat='50.77922876376' lon='6.07452251545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7962' action='modify' visible='true' lat='50.77935616376' lon='6.07458401545'>
+  <node id='-407' action='modify' visible='true' lat='50.77935616376' lon='6.07458401545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7961' action='modify' visible='true' lat='50.77945836376' lon='6.07459561545'>
+  <node id='-409' action='modify' visible='true' lat='50.77945836376' lon='6.07459561545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7959' action='modify' visible='true' lat='50.77945146376' lon='6.07463001545'>
+  <node id='-411' action='modify' visible='true' lat='50.77945146376' lon='6.07463001545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7958' action='modify' visible='true' lat='50.77942646376' lon='6.07458031545'>
+  <node id='-413' action='modify' visible='true' lat='50.77942646376' lon='6.07458031545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
   </node>
-  <node id='-7956' action='modify' visible='true' lat='50.77941966376' lon='6.07461471545'>
+  <node id='-415' action='modify' visible='true' lat='50.77941966376' lon='6.07461471545'>
     <tag k='indoor' v='column' />
     <tag k='level' v='0' />
     <tag k='note' v='sichtbar im Flur und hier Hilfspositionen für das Haupt-Raumraster' />
@@ -2634,153 +2634,153 @@
   <node id='3854282858' timestamp='2015-11-23T12:01:50Z' uid='67862' user='HolgerJeromin' visible='true' version='1' changeset='35528740' lat='50.7803301' lon='6.0739342' />
   <node id='3854282859' timestamp='2015-11-23T12:01:50Z' uid='67862' user='HolgerJeromin' visible='true' version='1' changeset='35528740' lat='50.7801706' lon='6.0742185' />
   <node id='3854282860' timestamp='2015-11-23T12:01:50Z' uid='67862' user='HolgerJeromin' visible='true' version='1' changeset='35528740' lat='50.7798288' lon='6.0751543' />
-  <way id='-8902' action='modify' visible='true'>
-    <nd ref='-8826' />
-    <nd ref='-8829' />
+  <way id='-1944' action='modify' visible='true'>
+    <nd ref='-27' />
+    <nd ref='-21' />
     <nd ref='619238192' />
     <nd ref='619238188' />
-    <nd ref='-8826' />
+    <nd ref='-27' />
     <tag k='indoor' v='level' />
     <tag k='level' v='3' />
   </way>
-  <way id='-8886' action='modify' visible='true'>
-    <nd ref='-8826' />
-    <nd ref='-8829' />
+  <way id='-1946' action='modify' visible='true'>
+    <nd ref='-27' />
+    <nd ref='-21' />
     <nd ref='619238192' />
     <nd ref='619238188' />
-    <nd ref='-8826' />
+    <nd ref='-27' />
     <tag k='indoor' v='level' />
     <tag k='level' v='2' />
   </way>
-  <way id='-8870' action='modify' visible='true'>
-    <nd ref='-8826' />
-    <nd ref='-8829' />
+  <way id='-1948' action='modify' visible='true'>
+    <nd ref='-27' />
+    <nd ref='-21' />
     <nd ref='619238192' />
     <nd ref='619238188' />
-    <nd ref='-8826' />
+    <nd ref='-27' />
     <tag k='indoor' v='level' />
     <tag k='level' v='1' />
   </way>
-  <way id='-8854' action='modify' visible='true'>
-    <nd ref='-8826' />
-    <nd ref='-8829' />
+  <way id='-1950' action='modify' visible='true'>
+    <nd ref='-27' />
+    <nd ref='-21' />
     <nd ref='619238192' />
     <nd ref='619238188' />
-    <nd ref='-8826' />
+    <nd ref='-27' />
     <tag k='indoor' v='level' />
     <tag k='level' v='0' />
   </way>
-  <way id='-8838' action='modify' visible='true'>
-    <nd ref='-8826' />
-    <nd ref='-8829' />
+  <way id='-1952' action='modify' visible='true'>
+    <nd ref='-27' />
+    <nd ref='-21' />
     <nd ref='619238192' />
     <nd ref='619238188' />
-    <nd ref='-8826' />
+    <nd ref='-27' />
     <tag k='indoor' v='level' />
     <tag k='level' v='-1' />
   </way>
-  <way id='-8821' action='modify' visible='true'>
-    <nd ref='-8822' />
-    <nd ref='-8823' />
-    <nd ref='-8824' />
-    <nd ref='-8825' />
-    <nd ref='-8826' />
-    <nd ref='-8827' />
-    <nd ref='-8828' />
-    <nd ref='-8829' />
-    <nd ref='-8830' />
-    <nd ref='-8831' />
-    <nd ref='-8832' />
-    <nd ref='-8833' />
-    <nd ref='-8834' />
-    <nd ref='-8822' />
+  <way id='-1954' action='modify' visible='true'>
+    <nd ref='-35' />
+    <nd ref='-33' />
+    <nd ref='-31' />
+    <nd ref='-29' />
+    <nd ref='-27' />
+    <nd ref='-25' />
+    <nd ref='-23' />
+    <nd ref='-21' />
+    <nd ref='-19' />
+    <nd ref='-17' />
+    <nd ref='-15' />
+    <nd ref='-13' />
+    <nd ref='-11' />
+    <nd ref='-35' />
     <tag k='indoor' v='room' />
     <tag k='level' v='1' />
-    <tag k='ref' v='014' />
+    <tag k='ref' v='114' />
   </way>
-  <way id='-8141' action='modify' visible='true'>
-    <nd ref='-8161' />
-    <nd ref='-8162' />
-    <nd ref='-8163' />
-    <nd ref='-8164' />
-    <nd ref='-8165' />
-    <nd ref='-8166' />
-    <nd ref='-8161' />
+  <way id='-1956' action='modify' visible='true'>
+    <nd ref='-203' />
+    <nd ref='-201' />
+    <nd ref='-199' />
+    <nd ref='-197' />
+    <nd ref='-195' />
+    <nd ref='-193' />
+    <nd ref='-203' />
     <tag k='indoor' v='elevator' />
     <tag k='level' v='3' />
   </way>
-  <way id='-8138' action='modify' visible='true'>
-    <nd ref='-8157' />
-    <nd ref='-8158' />
-    <nd ref='-8159' />
-    <nd ref='-8160' />
-    <nd ref='-8157' />
+  <way id='-1958' action='modify' visible='true'>
+    <nd ref='-211' />
+    <nd ref='-209' />
+    <nd ref='-207' />
+    <nd ref='-205' />
+    <nd ref='-211' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
     <tag k='note' v='Treppenhaus' />
     <tag k='stairs' v='yes' />
   </way>
-  <way id='-8090' action='modify' visible='true'>
-    <nd ref='-8110' />
-    <nd ref='-8111' />
-    <nd ref='-8112' />
-    <nd ref='-8113' />
-    <nd ref='-8114' />
-    <nd ref='-8115' />
-    <nd ref='-8110' />
+  <way id='-1960' action='modify' visible='true'>
+    <nd ref='-259' />
+    <nd ref='-257' />
+    <nd ref='-255' />
+    <nd ref='-253' />
+    <nd ref='-251' />
+    <nd ref='-249' />
+    <nd ref='-259' />
     <tag k='indoor' v='elevator' />
     <tag k='level' v='2' />
   </way>
-  <way id='-8087' action='modify' visible='true'>
-    <nd ref='-8106' />
-    <nd ref='-8107' />
-    <nd ref='-8108' />
-    <nd ref='-8109' />
-    <nd ref='-8106' />
+  <way id='-1962' action='modify' visible='true'>
+    <nd ref='-267' />
+    <nd ref='-265' />
+    <nd ref='-263' />
+    <nd ref='-261' />
+    <nd ref='-267' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
     <tag k='note' v='Treppenhaus' />
     <tag k='stairs' v='yes' />
   </way>
-  <way id='-8040' action='modify' visible='true'>
-    <nd ref='-8060' />
-    <nd ref='-8061' />
-    <nd ref='-8062' />
-    <nd ref='-8063' />
-    <nd ref='-8064' />
-    <nd ref='-8065' />
-    <nd ref='-8060' />
+  <way id='-1964' action='modify' visible='true'>
+    <nd ref='-315' />
+    <nd ref='-313' />
+    <nd ref='-311' />
+    <nd ref='-309' />
+    <nd ref='-307' />
+    <nd ref='-305' />
+    <nd ref='-315' />
     <tag k='indoor' v='elevator' />
     <tag k='level' v='1' />
   </way>
-  <way id='-8037' action='modify' visible='true'>
-    <nd ref='-8056' />
-    <nd ref='-8057' />
-    <nd ref='-8058' />
-    <nd ref='-8059' />
-    <nd ref='-8056' />
+  <way id='-1966' action='modify' visible='true'>
+    <nd ref='-323' />
+    <nd ref='-321' />
+    <nd ref='-319' />
+    <nd ref='-317' />
+    <nd ref='-323' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
     <tag k='note' v='Treppenhaus' />
     <tag k='stairs' v='yes' />
   </way>
-  <way id='-7960' action='modify' visible='true'>
-    <nd ref='-7980' />
-    <nd ref='-7981' />
-    <nd ref='-7982' />
-    <nd ref='-7983' />
-    <nd ref='-7984' />
-    <nd ref='-7985' />
-    <nd ref='-7980' />
+  <way id='-1968' action='modify' visible='true'>
+    <nd ref='-371' />
+    <nd ref='-369' />
+    <nd ref='-367' />
+    <nd ref='-365' />
+    <nd ref='-363' />
+    <nd ref='-361' />
+    <nd ref='-371' />
     <tag k='indoor' v='elevator' />
     <tag k='level' v='0' />
   </way>
-  <way id='-7957' action='modify' visible='true'>
-    <nd ref='-7976' />
-    <nd ref='-7977' />
-    <nd ref='-7978' />
-    <nd ref='-7979' />
-    <nd ref='-7976' />
+  <way id='-1970' action='modify' visible='true'>
+    <nd ref='-379' />
+    <nd ref='-377' />
+    <nd ref='-375' />
+    <nd ref='-373' />
+    <nd ref='-379' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
     <tag k='note' v='Treppenhaus' />
